@@ -1,21 +1,17 @@
-### Hello ladies and gentlemen
-#### 👋 Hi, I’m Nguyen Trong Nhan
-- 👀 I’m from Da Nang, Viet Nam
-- 💻 I'm a Web Developer. I am passionate about creating interactive user interfaces and delivering optimal user experiences. With a solid foundation in HTML, CSS, JavaScript and problem-solving skills, I can work independently and effectively in team-work
-- I'm interested in UX/UI, AI, AWS, DevOps, IoT...
-- 📫 Connect with me:
+# 🚀 Hi, I'm Nguyen Trong Nhan
+**Full-stack Solution Architect | Team Lead (Kozocom)**
 
-Phone:
-```
-0903 893 222
-```
+I bridge the gap between complex business requirements and high-performance digital solutions. With over 5 years of experience leading a team of senior engineers, I specialize in crafting scalable software that balances innovation with cost-efficiency.
 
-Mail:
-```
-nhannttech@gmail.com
-```
+- 🔭 **Currently focusing on:** AI-driven forecasting models & Cloud-native architectures.
+- 💼 **Consulting:** Helping startups and enterprises build professional software from the ground up.
+- 📍 **Based in:** Da Nang, Viet Nam.
+ 
+---
 
-**I have a staff of engineers with many years of experience, we specialize in consulting solutions and developing professional software. We always bring customers the best products at an affordable cost. Contact me for advice**
+### 📬 Connect with me
+- **Email:** [nhannttech@gmail.com](mailto:nhannttech@gmail.com)
+- **Phone:** 0903 893 222
+- **LinkedIn:** ...
 
-
-
+> *“Bringing the best products to customers at an affordable cost is not just a goal, it's our standard.”*
