@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Nguyen Trong Nhan
-** Full-stack Solution Architect | Team Lead **
+**Full-stack Solution Architect | Team Lead**
 
 I bridge the gap between complex business requirements and high-performance digital solutions. With over 5 years of experience leading a team of senior engineers, I specialize in crafting scalable software that balances innovation with cost-efficiency.
 
